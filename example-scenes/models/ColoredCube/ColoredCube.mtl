@@ -1,0 +1,60 @@
+# Blender MTL File: 'None'
+# Material Count: 6
+
+newmtl Red
+  Ns 10.0000
+  Ni 1.5000
+  illum 2
+  Ka 0.6 0.06 0.06
+  Kd 0.6 0.06 0.06
+  Ks 0 0 0
+  Ke 0 0 0
+newmtl Green
+  Ns 10.0000
+  Ni 1.5000
+  illum 2
+  Ka 0.06 0.6 0.06
+  Kd 0.06 0.6 0.06
+  Ks 0 0 0
+  Ke 0 0 0
+newmtl Purple
+  Ns 10.0000
+  Ni 1.5000
+  illum 2
+  Ka 0.6 0.06 0.6
+  Kd 0.6 0.06 0.6
+  Ks 0 0 0
+  Ke 0 0 0
+newmtl Blue
+  Ns 10.0000
+  Ni 1.5000
+  illum 2
+  Ka 0.06 0.06 0.6
+  Kd 0.06 0.06 0.6
+  Ks 0 0 0
+  Ke 0 0 0
+newmtl Yellow
+  Ns 10.0000
+  Ni 1.5000
+  illum 2
+  Ka 0.9 0.9 0.06
+  Kd 0.9 0.9 0.06
+  Ks 0 0 0
+  Ke 0 0 0
+newmtl Orange
+  Ns 10.0000
+  Ni 1.5000
+  illum 2
+  Ka 0.9 0.6 0.06
+  Kd 0.9 0.6 0.06
+  Ks 0 0 0
+  Ke 0 0 0
+
+newmtl light
+  Ns 10.0000
+  Ni 1.0000
+  illum 2
+  Ka 0.78 0.78 0.78 # White
+  Kd 0.78 0.78 0.78
+  Ks 0 0 0
+  Ke 17 12 4
